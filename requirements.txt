@@ -2,3 +2,6 @@ langchain
 openai
 streamlit
 python-dotenv
+warnings
+pyttsx3 
+speech_recognition
